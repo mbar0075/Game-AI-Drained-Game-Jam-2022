@@ -10,5 +10,5 @@ The repository contains the Game which won the University of Malta 10th Game Jam
 3. GAME AI Report - documentation for the Project
 
 ## Other:
-All Major AI Functionality and game components was coded and implemented by myself.
+All Major AI Functionality and game components was coded and implemented by myself, as well as was one of the Project Managers.
  
