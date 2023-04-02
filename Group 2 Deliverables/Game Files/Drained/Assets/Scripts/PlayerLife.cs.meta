@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 900ba7d151fe9054eb2361347bfac503
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSoundEffect: {instanceID: 0}
+  - backgroundMusic: {fileID: 815395727122954783, guid: 478ffc40054bf7c4ab3fbba60faf6fb1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

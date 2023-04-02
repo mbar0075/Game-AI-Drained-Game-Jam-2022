@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: b5f8fc73eff239d4eac8dc21fc7ee70f
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 1bd4c4f3454c7a346838a656d52e985c
+  - enabled: 1
+    path: Assets/Scenes/TheFinalChallenge.unity
+    guid: b64cdf6112de3a94ca9e5c1986d0c4c2
+  - enabled: 1
+    path: Assets/Scenes/Retry.unity
+    guid: c3df180a5d9f85c4ebf008abec9b9551
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 516a12b9909967245a02f50ce05952f0
+  m_configObjects: {}
