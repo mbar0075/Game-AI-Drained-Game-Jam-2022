@@ -11,4 +11,4 @@ The repository contains the Game which won the University of Malta 10th Game Jam
 
 ## Other:
 All Major AI Functionality and game components was coded and implemented by myself, as well as was one of the Project Managers.
- 
+Read more at : https://www.um.edu.mt/newspoint/news/2022/12/drained-wins-the-2022-game-jam 
