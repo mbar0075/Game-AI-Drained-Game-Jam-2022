@@ -23,7 +23,7 @@ complementary game mechanics.
 
 The team took great care in making sure that Drained accurately represents the theme of mental health.
 This is reflected through the player who, in the game, takes control of a character burdened with the
-effects of mental exhaustion. The primary representation of this is a mental health bar visible in the topright corner of the screen, which goes down over time, thus simulating being in a **“draining” situation.** Like real life mental health afflictions, the bar going down does not harm you physically, but negatively
+effects of mental exhaustion. The primary representation of this is a mental health bar visible in the topright corner of the screen, which goes down over time, thus simulating being in a **“draining”** situation. Like real life mental health afflictions, the bar going down does not harm you physically, but negatively
 impacts you in other ways. When one is mentally exhausted, common symptoms are reduction in mental
 clarity and scattered thoughts.
 
@@ -35,21 +35,15 @@ becoming desensitised to these methods over time.</br>
 
 
 ## "Drained" wins the 2022 Game Jam
-```
-  "Drained" was developed by a mixed team of eight students from different departments. The game tackled the issue of mental 
-  exhaustion and fatigue, and the judges praised it for its engaging gameplay and thought-provoking message.
 
-  In "Drained", players take on the role of a character struggling with mental exhaustion and fatigue. The game uses a unique 
-  mechanic where players must carefully manage their mental energy to survive. As the game progresses, players must make 
-  difficult decisions that will impact their character's mental state.
+> "Drained" was developed by a mixed team of eight students from different departments. The game tackled the issue of mental exhaustion and fatigue, and the judges praised it for its engaging gameplay and thought-provoking message.
+>
+> In "Drained", players take on the role of a character struggling with mental exhaustion and fatigue. The game uses a unique mechanic where players must carefully manage their mental energy to survive. As the game progresses, players must make difficult decisions that will impact their character's mental state.
+>
+> The game was developed using a combination of graphics, and it features a beautiful and immersive art style. The game's music and sound effects also added to the overall atmosphere and helped to create a truly engaging experience for players.
+> 
+> - Newspoint > News > 2022 > December > "Drained" wins the 2022 Game Jam
 
-  The game was developed using a combination of graphics, and it features a beautiful and immersive art style. The game's 
-  music and sound effects also added to the overall atmosphere and helped to create a truly engaging experience for players.
-                                                          
-                                                          
-                                                        
-                                                        -- Newspoint > News > 2022 > December > "Drained" wins the 2022 Game Jam
-```
 
 **Read more at:** https://www.um.edu.mt/newspoint/news/2022/12/drained-wins-the-2022-game-jam
 
