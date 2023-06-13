@@ -36,11 +36,11 @@ becoming desensitised to these methods over time.</br>
 
 ## "Drained" wins the 2022 Game Jam
 
-> "Drained" was developed by a mixed team of eight students from different departments. The game tackled the issue of mental exhaustion and fatigue, and the judges praised it for its engaging gameplay and thought-provoking message.
+> " "Drained" was developed by a mixed team of eight students from different departments. The game tackled the issue of mental exhaustion and fatigue, and the judges praised it for its engaging gameplay and thought-provoking message.
 >
 > In "Drained", players take on the role of a character struggling with mental exhaustion and fatigue. The game uses a unique mechanic where players must carefully manage their mental energy to survive. As the game progresses, players must make difficult decisions that will impact their character's mental state.
 >
-> The game was developed using a combination of graphics, and it features a beautiful and immersive art style. The game's music and sound effects also added to the overall atmosphere and helped to create a truly engaging experience for players.
+> The game was developed using a combination of graphics, and it features a beautiful and immersive art style. The game's music and sound effects also added to the overall atmosphere and helped to create a truly engaging experience for players. "
 > 
 > - Newspoint > News > 2022 > December > "Drained" wins the 2022 Game Jam
 
