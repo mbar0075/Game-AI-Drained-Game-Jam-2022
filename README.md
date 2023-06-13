@@ -46,7 +46,6 @@ becoming desensitised to these methods over time.</br>
 
 
 **Read more at:** https://www.um.edu.mt/newspoint/news/2022/12/drained-wins-the-2022-game-jam
-
 </br>
 
 ## Video: 
