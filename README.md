@@ -43,7 +43,9 @@ becoming desensitised to these methods over time.</br>
 > The game was developed using a combination of graphics, and it features a beautiful and immersive art style. The game's music and sound effects also added to the overall atmosphere and helped to create a truly engaging experience for players. "
 > 
 > - Newspoint > News > 2022 > December > "Drained" wins the 2022 Game Jam
-
+<p align='center'>
+<img src="https://www.um.edu.mt/__data/assets/image/0017/507203/varieties/extra.png"  style="display: block; margin: 0 auto; width: 60%; height: auto;">
+</p>
 
 **Read more at:** https://www.um.edu.mt/newspoint/news/2022/12/drained-wins-the-2022-game-jam
 </br>
