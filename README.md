@@ -35,7 +35,11 @@ becoming desensitised to these methods over time.</br>
 
 
 ## "Drained" wins the 2022 Game Jam
-
+>" **The theme of the game jam was mental health, and the winning game was called "Drained"**.
+>
+>The game jam was a competition where teams of students worked to create a game from scratch in just 42 hours. It was an intense and exciting event that allowed participants to put their skills to the test and push the boundaries of their creativity. The teams were given free rein to create whatever kind of game they wanted, as long as it related to the theme of mental health. "
+>
+>
 > " "Drained" was developed by a mixed team of eight students from different departments. The game tackled the issue of mental exhaustion and fatigue, and the judges praised it for its engaging gameplay and thought-provoking message.
 >
 > In "Drained", players take on the role of a character struggling with mental exhaustion and fatigue. The game uses a unique mechanic where players must carefully manage their mental energy to survive. As the game progresses, players must make difficult decisions that will impact their character's mental state.
@@ -74,6 +78,6 @@ The provided Data Flow Diagram (DFD) serves to showcase the intricate functional
 
 ## Deliverables:
 The repository contains the Game which won the University of Malta 10th Game Jam, and includes the following:<br />
-1.**Group 2 Deliverables** - directory which hold the Project Code<br />
-2. **Drained.mp4** - video showcasing the Game<br />
-3. **GAME AI Report** - documentation for the Project<br />
+1. [Group 2 Deliverables](https://github.com/mbar0075/Game-AI-Drained-Game-Jam-2022/tree/main/Group%202%20Deliverables) - directory which hold the Project Code<br />
+2. [Drained.mp4](https://github.com/mbar0075/Game-AI-Drained-Game-Jam-2022/blob/main/Drained.mp4) - video showcasing the Game<br />
+3. [GAME AI Report](https://github.com/mbar0075/Game-AI-Drained-Game-Jam-2022/blob/main/GAME%20AI%20Report.pdf) - documentation for the Project<br />
