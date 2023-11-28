@@ -56,12 +56,11 @@ becoming desensitised to these methods over time.</br>
 
 
 ## Getting Featured on National Television:
-Our game got the attention of the local media and was featured on the national television station, TVM.
+Our game got the attention of the local media and was featured on the national television station, TVM, on November 28, 2023.
 
-<video controls>
-  <source src="GameJamTV.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/mbar0075/Game-AI-Drained-Game-Jam-2022/assets/103250564/033032c8-5aae-423f-aa16-c58975e7c613
+
 
 
 ## Video: 
